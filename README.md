@@ -5,7 +5,7 @@ A simple little script that neatly display all of the `meta` tags of a website.
 ## Installation
 
 You can either download the source code and run `make install` in its directory or
-download one of the binaries and add the path to it to your `PATH`.
+download one of the binaries [here][releases] and add the path to it to your `PATH`.
 
 - on Windows you can also just place the file in `C:\WINDOWS\System32`.
   Alternatively [here's a tutorial][tutorial] on how to edit the path on Windows
@@ -29,3 +29,4 @@ citation_publisher:         Determination Press
 ```
 
 [tutorial]: https://www.youtube.com/watch?v=gb9e3m98avk
+[releases]: https://github.com/Flobii/getmeta/releases/
