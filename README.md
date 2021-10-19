@@ -9,6 +9,7 @@ download one of the binaries and add the path to it to your `PATH`.
 
 - on Windows you can also just place the file in `C:\WINDOWS\System32`
 - on Linux: `export PATH=$PATH:/path/to/the/binary`
+- on MacOS: no idea, sorry!
 
 ## Usage
 
