@@ -2,6 +2,14 @@
 
 A simple little script that neatly display all of the `meta` tags of a website.
 
+## Installation
+
+You can either download the source code and run `make install` in its directory or
+download one of the binaries and add the path to it to your `PATH`.
+
+- on Windows you can also just place the file in `C:\WINDOWS\System32`
+- on Linux: `export PATH=$PATH:/path/to/the/binary`
+
 ## Usage
 
 `getmeta <url>`
