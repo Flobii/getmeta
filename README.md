@@ -14,7 +14,9 @@ download one of the binaries [here][releases] and add the path to it to your `PA
 
 ## Usage
 
-`getmeta <url>`
+```bash
+$ getmeta [url]
+```
 
 **Example**
 
