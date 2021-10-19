@@ -2,7 +2,7 @@
 
 A simple little script that neatly display all of the `meta` tags of a website.
 
-## Usae
+## Usage
 
 `getmeta <url>`
 
