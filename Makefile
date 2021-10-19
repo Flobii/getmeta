@@ -1,4 +1,5 @@
 .PHONY: example
+.PHONY: install
 
 example:
 	@echo "\044 go run getmeta.go http://neuralnetworksanddeeplearning.com/"
