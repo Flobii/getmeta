@@ -14,8 +14,18 @@ download one of the binaries [here][releases] and add the path to it to your `PA
 
 ## Usage
 
+For one time use:
+
 ```bash
 $ getmeta [url]
+```
+
+If you want to enter multiple URLs one after the other:
+
+```bash
+$ getmeta --cli
+Enter URL to get meta. To exit press `Ctrl + D`
+URL: 
 ```
 
 **Example**

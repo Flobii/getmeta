@@ -34,7 +34,7 @@ func main() {
 }
 
 func cliURL() {
-	const message string = "Enter URL to get meta. To exit press `Ctrl + D`"
+	const message string = "Enter URL to get meta. To exit press `Ctrl + C`"
 	fmt.Println(message)
 	reader := bufio.NewReader(os.Stdin)
 	for {
